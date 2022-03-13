@@ -1,15 +1,27 @@
 {
   "name": "netease-cloud-music-api-change",
   "version": "1.0.0",
-  "description": "",
+  "description": "Make some personal modifications to the NeteaseCloudMusicApi project.",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["NeteaseCloudMusicApi"],
+  "author": "nulijiacanfan <nulijiacanfan@gmail.com>",
   "license": "ISC",
   "dependencies": {
     "NeteaseCloudMusicApi": "^4.5.8"
-  }
+  },
+  "directories": {
+    "lib": "lib"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/yushuohuanxiu/netease-cloud-music-api-change.git"
+  },
+  "bugs": {
+    "url": "https://github.com/yushuohuanxiu/netease-cloud-music-api-change/issues"
+  },
+  "homepage": "https://github.com/yushuohuanxiu/netease-cloud-music-api-change#readme"
 }
